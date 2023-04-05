@@ -1,0 +1,20 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-05T15:32:04Z",
+  "IdClaims": [
+    {
+      "Claim": "t:charles_gaba"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "69fe2ca255d32e75b0fd16a2",
+    "Timestamp": "2023-04-05T15:33:24Z",
+    "Signature": "1d5dd53e16c480677947e00e014251002ba2a5d796fdece8675a5c018df0af44ae98fa5551a3bb17948f723024a9af73ce30a1e2d1489b3b6d396a88434de1daded35689b563429aa08b6fc12109f69fdba66ea81e4f5dc5bec4e034dc77ffa77a4955e0956ee86585d9c1290a37287d08cabe0e10f15ddb21d67a55df2208a58489d6d01a1ccd60086b4163e837ea7b4e9f5a3b45739ded5d9dc357b542240e81341d1d97151570543d501b6d83823aa018512d2f1a0f658fb45515ea29775f5a24a077870ba292d280528e982738de200872e080aa886ee78682f670add8a2ace22c4b346227f33cf3a2b62f4fa8e0d1bc3a9b90ffed8859d0b5a4e592d478"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "7ed0d7ab2400696c824eb85ca23e45ad88d2bfb2729c4f37ac728f38da63c84e",
+  "ContentToHash": "v1|t:charles_gaba|2023-04-05T15:32:04Z"
+}
